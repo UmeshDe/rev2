@@ -1581,7 +1581,7 @@ footer ul li a i{
   /* ------ Home Page Slider --------- */
 .mts-main-slides h1.mts-slider-text-big {
   color: #ffffff;
-  font-size: 50px;
+  font-size: 10vw;
   margin-bottom: 25px;
   margin-top: 0;
   white-space: normal !important;
